@@ -20,3 +20,7 @@ git clone https://github.com/mchome/luci-app-dogcom package/feeds/luci/luci-app-
 #Add luci-app-vssr
 git clone https://github.com/jerrykuku/lua-maxminddb package/lean/lua-maxminddb
 git clone https://github.com/jerrykuku/luci-app-vssr package/lean/luci-app-vssr
+
+#Add luci-app-scutclient
+git clone https://github.com/wuzibin/scutclient package/feeds/packages/scutclient
+git clone https://github.com/wuzibin/luci-app-scutclient package/feeds/luci/luci-app-scutclient
